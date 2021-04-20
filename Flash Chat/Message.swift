@@ -9,5 +9,10 @@ class Message {
     //TODO: Messages need a messageBody and a sender variable
     
     
+    var msgBody : String = ""
+    
+    var msgSender : String = ""
+    
+    
     
 }
